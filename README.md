@@ -1,1 +1,1 @@
-# Conteúdo destinado as aulas do curso de Banco de Dados - Fatec.
+# Conteúdo destinado às aulas do curso de Banco de Dados - Fatec.
